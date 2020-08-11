@@ -1,5 +1,5 @@
 # ipu
-Get IP address from URL
+Get IP address from Domain 
 
 # Requirement
 ==> Python3
