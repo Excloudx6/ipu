@@ -17,8 +17,8 @@ print(colored(" 	|_\_|   \__,_| ",'green'))
                
 print("") 
 print(colored(" # Develop by ArMan HoSSa!n     ", 'yellow'))
-print(colored(" # Twitter: @antu1024        ", 'yellow'))
-print(colored(" # Get IP address from Domain	    ", 'yellow'))               
+print(colored(" # Twitter: @0xAntu        ", 'yellow'))
+print(colored(" # Get IP address from Domain Name	    ", 'yellow'))               
 print("")
 parser = argparse.ArgumentParser()
 parser.add_argument('-u', help='Target url', dest='url')
@@ -57,5 +57,5 @@ if url_file:
 
 
 print(" ")
-print(colored(" # CopyRight @ antu1024", 'yellow'))
+print(colored(" # CopyRight @ 0xAntu", 'yellow'))
 print(" ")
