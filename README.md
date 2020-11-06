@@ -1,5 +1,5 @@
 # ipu
-Get IP address from Domain 
+Get IP address from Domain Name
 
 # Requirement
 ==> Python3
@@ -7,7 +7,7 @@ Get IP address from Domain
 # How to Install:
 First go your Terminal. Then
 
-Step 1 # git clone https://github.com/antu1024/ipu.git
+Step 1 # git clone https://github.com/0xAntu/ipu.git
 
 Step 2 # cd ipu
 
